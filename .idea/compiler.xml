@@ -7,7 +7,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="kafka-exercise" />
+        <module name="kafka-basics" />
+        <module name="kafka-consumer-elasticsearch" />
+        <module name="kafka-producer-twitter" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />
